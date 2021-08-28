@@ -1,5 +1,5 @@
 <h1><b>User Story Requirements</b></h1>
-<hr>
+
 
 <b>User Story #1:</b> My tribute page should have an element with a corresponding id="main", which contains all other elements.<br>
 
@@ -13,7 +13,8 @@
 
 <b>User Story #6:</b>  I should see an element with a corresponding id="tribute-info", which contains textual content describing the subject of the tribute page.<br>
 
-<b>User Story #7:</b>  I should see an a element with a corresponding id="tribute-link", which links to an outside site that contains additional<br> information about the subject of the tribute page. HINT: You must give your element an attribute of target and set it to _blank in order for your link to open in a new tab (i.e. target="_blank").<br>
+<b>User Story #7:</b>  I should see an a element with a corresponding id="tribute-link", which links to an outside site that contains additional<br> information about the subject of the tribute page.<br> 
+HINT: You must give your element an attribute of target and set it to _blank in order for your link to open in a new tab (i.e. target="_blank").<br>
 
 <b>User Story #8:</b>  The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.<br>
 
