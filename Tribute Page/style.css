@@ -9,3 +9,12 @@ Blue- #034694 ; RGB- (3, 70, 148); CMYK-(100, 83, 10, 1); */
 .h1{
     text-align:center;
 }
+
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+footer{
+    margin-top: auto;
+}
