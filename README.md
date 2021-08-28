@@ -12,4 +12,4 @@ The following projects were written for the requirement of this course:<br>
 
 
 
-<a href="https://twitter.com/antariksh__17">Antariksh</a>, 2021
+<a href="https://twitter.com/antariksh__17" target="_blank">Antariksh</a>, 2021
