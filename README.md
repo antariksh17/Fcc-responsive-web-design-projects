@@ -1,4 +1,5 @@
-Hey Everyone!
+<h2><b>Hey Everyone!</b></h2><br>
+
 This repository contains <a href="https://www.freecodecamp.org/learn/responsive-web-design/">FreeCodeCamp's Responsive Web Design's</a> Capstone projects, written by me :)
 
 
@@ -12,4 +13,5 @@ The following projects were written for the requirement of this course:<br>
 
 
 
-<a href="https://twitter.com/antariksh__17" target="_blank">Antariksh</a>, 2021
+<a href="https://twitter.com/antariksh__17" target="_blank">Antariksh</a><br>
+August, 2021
