@@ -51,7 +51,8 @@
 
 
 
-<h2><i>second tab/subheading </i><b>statistics</b></h2>
+<h2><i>second tab/subheading </i><b> <a href="https://en.wikipedia.org/wiki/List_of_Chelsea_F.C._records_and_statistics" target="_blank">statistics</a></b></h2>
+
 
 
 
