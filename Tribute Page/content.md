@@ -91,13 +91,13 @@
      The experienced Bavarian coach’s impact was immediate and enduring. Switching tactics to a back three that bolstered defence and wing-backs who supported the attack, and with less regular players brought back in, the team embarked on a remarkable run. Tuchel was undefeated in his first 14 games in all competitions – a record for any Chelsea boss. That is a wonderful habit, but something else was stirring too.          
   </p>
   <p>
-     The East Stand celebrations by sidelined team-mates as Chelsea beat Liga leaders Atletico 2-0 in March revealed the team spirit that would help sweep the Blues all the way to two finals, echoing another season with a mid-season change of coach: 2012.<br>
+     The East Stand celebrations by sidelined team-mates as Chelsea beat Liga leaders Atletico 2-0 in March revealed the team spirit that would help sweep the Blues all the way to two finals, echoing another season with a mid-season change of coach: 2012.
 
-     By the final thrilling whistle in Porto Tuchel had masterminded victories over some of the world’s greatest coaches: Pep Guardiola (three times), Diego Simeone (twice), Zinedine Zidane, Jurgen Klopp, Jose Mourinho, and Carlo Ancelotti. By beating Atletico, Real Madrid, and City, no one could say the triumph in Estadio do Dragao was undeserved.<br>
+     By the final thrilling whistle in Porto Tuchel had masterminded victories over some of the world’s greatest coaches: Pep Guardiola (three times), Diego Simeone (twice), Zinedine Zidane, Jurgen Klopp, Jose Mourinho, and Carlo Ancelotti. By beating Atletico, Real Madrid, and City, no one could say the triumph in Estadio do Dragao was undeserved.
 
-    The winning goal reflected the twin pillars of Roman Abramovich’s plan for the club: a sumptuous pass from Academy graduate Mason Mount and a cultured finish from Kai Havertz, one of our most expensive signings.<br> 
+    The winning goal reflected the twin pillars of Roman Abramovich’s plan for the club: a sumptuous pass from Academy graduate Mason Mount and a cultured finish from Kai Havertz, one of our most expensive signings. 
 
-   In the Premier League, only champions Manchester City outperformed Chelsea once Tuchel had arrived, and the Blues have now equalled Arsenal for league victories over the Premier League era. Only Manchester United have managed more.          
+    In the Premier League, only champions Manchester City outperformed Chelsea once Tuchel had arrived, and the Blues have now equalled Arsenal for league victories over the Premier League era. Only Manchester United have managed more.          
   </p>
 
 
