@@ -11,6 +11,14 @@
       type="image/svg" 
       href="Tribute Page\chelsea_FC_vectlogo.svg">
       <link rel="stylesheet" href="style.css">
+
+   <!--Import Google Icon Font-->
+   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+   <!--Import materialize.css-->
+   <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+
+   <!--Let browser know website is optimized for mobile-->
+   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     
 
 
@@ -19,22 +27,57 @@
 
 
 <body>
-  <nav>  
+  <header>
+    <h1>Chelsea FC</h1>  
+    <h4><i>Keep the blue flag flying high</i></h4>
+  </header>
+  <nav>
+    <ul>
+      <li><a class="waves-effect waves-light btn" href="#home">History</a></li>
+      <li><a class="waves-effect waves-light btn"href="#news">Statistics</a></li>
+      <li><a class="waves-effect waves-light btn" href="#contact">Season</a></li>
+      <li><a class="waves-effect waves-light btn" href="#about">Best of Blues</a></li>
+    </ul>
+      
   
-   <header>
-     <h1>Chelsea FC</h1>  
-     <h4><i>Keep the blue flag flying high</i></h4>
-   </header>
+   
   
   </nav>
 
   <main>
     
     <article>
-      <div id="img div">
-        <img id="image" src="" caption="what else do you want fcc?">
+      
+      <h2>History</h2>
+      <hr>
+      <section id="tribute-info">
+       <h5>Founding and early years</h5>
+       <p>
+        In 1904, Gus Mears acquired the Stamford Bridge athletics stadium with the aim of turning it into a football ground. An offer to lease it to nearby Fulham was turned down, so Mears opted to found his own club to use the stadium. As there was already a team named Fulham in the borough, the name of the adjacent borough of Chelsea was chosen for the new club; names like Kensington FC, Stamford Bridge FC and London FC were also considered. Chelsea were founded on 10 March 1905 at The Rising Sun pub (now The Butcher's Hook), opposite the present-day main entrance to the ground on Fulham Road, and were elected to the Football League shortly afterwards.
+       </p>
+       <p>
+        Chelsea won promotion to the First Division in their second season, and yo-yoed between the First and Second Divisions in their early years. They reached the 1915 FA Cup Final, where they lost to Sheffield United at Old Trafford, and finished third in the First Division in 1920, the club's best league campaign to that point.Chelsea had a reputation for signing star players and attracted large crowds. The club had the highest average attendance in English football in ten separate seasonsincluding 1907–08, 1909–10, 1911–12,1912–13, 1913–14 and 1919–20. They were FA Cup semi-finalists in 1920 and 1932 and remained in the First Division throughout the 1930s, but success eluded the club in the inter-war years.
+    </p>    
+      
+        <aside>
+          <div id="img div">
+            <img id="image" src="images\Chelsea_Team_1905.jpg" caption="what else do you want fcc?">
         
-      </div>
+          </div>
+
+        </aside>
+      
+      </section>
+      <section>
+        <h5>Modernisation and the first league championship</h5>
+
+        <p>
+          Former Arsenal and England centre-forward Ted Drake was appointed manager in 1952 and proceeded to modernise the club. He removed the club's Chelsea pensioner crest, improved the youth set-up and training regime, rebuilt the side with shrewd signings from the lower divisions and amateur leagues, and led Chelsea to their first major trophy success – the League championship – in 1954–55. 
+        </p>
+        <p>
+          The following season saw UEFA create the European Champions' Cup, but after objections from The Football League and the FA, Chelsea were persuaded to withdraw from the competition before it started. Chelsea failed to build on this success, and spent the remainder of the 1950s in mid-table. Drake was dismissed in 1961 and replaced by player-coach Tommy Docherty.
+        </p>
+      </section>
 
       
     </article>
@@ -49,11 +92,15 @@
 
 
   </main>
+  
+  <script type="text/javascript" src="js/materialize.min.js"></script>
 
-  <footer>
-    <h9>All the employed logos and terminologies are registered trademarks of <a href="https://www.chelseafc.com/en" target="_blank">Chelsea F.C</a></h9>
-  </footer>
+  
 </body>
+<footer>
+  <h9>All the employed logos and terminologies are registered trademarks of <a href="https://www.chelseafc.com/en" target="_blank" id="tribute-link">Chelsea F.C</a></h9>
+</footer>
+
 
 
 </html>
