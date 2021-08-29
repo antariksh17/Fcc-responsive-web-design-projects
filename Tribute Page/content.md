@@ -98,6 +98,42 @@
   <p>
      The winning goal reflected the twin pillars of Roman Abramovich’s plan for the club: a sumptuous pass from Academy graduate Mason Mount and a cultured finish from Kai Havertz, one of our most expensive signings. In the Premier League, only champions Manchester City outperformed Chelsea once Tuchel had arrived, and the Blues have now equalled Arsenal for league victories over the Premier League era. Only Manchester United have managed more.           
   </p>
+  <p>
+     As a result of the Covid lockdown, the Premier League season began for Chelsea on Monday 14 September – our first opening day in that month for 106 years, and the latest ever in our history.
+
+     The first 10 seasons leading up to World War One all started in September, the latest being 7 September 1907. All seasons since then have begun in August.
+
+     On 13 April 2021, Chelsea also made history by playing a ‘home’ game away from Stamford Bridge for the first time. Covid travel restrictions meant both legs of the Champions League quarter-final clash with Porto were staged at Estadio Ramon Sanchez Pizjuan in Seville.           
+  </p>
+  <p>
+     Ironically, for the same reason the final of the competition was later moved to Porto’s home ground, producing our second win in that stadium in five attempts. 
+
+     The past two campaigns have been affected by the pandemic, with a significant number of matches played behind closed doors.
+
+     Crowd-free stadiums were used to explain the apparent loss of home advantage across the Premier League, with away wins (40 per cent) outstripping those for the host (38 per cent).
+
+     For the first time since 2015/16 (when we finished 10th) the Blues earned a marginal majority of our top-flight points on the road. In 2019/20, 55 per cent of our total came at the Bridge and 45 per cent on opposition grounds.           
+  </p>
+  <p>
+     Despite the intensity of the shortened schedule, the number of times they were called into action, and the prevalence of coronavirus, Chelsea’s players missed fewer matches through injury or illness than any other Premier League club.
+
+     According to the specialist website @PremierInjuries, the Blues had 26 injuries or illnesses in 2020/21, at a rate of one absence every 201 minutes played. A cumulative total of 54 games were missed, which was 32 better than the next fewest, Arsenal, on 86.
+
+     Victory over Manchester City in Porto brought the 27th major honour to the club’s trophy cabinet and the 22nd in the past 24 years. All the silverware is on show in a new display at the official museum, which recently reopened along with stadium tours.
+
+     Chelsea also finished the season as London’s highest-placed club for the 14th time in 16 seasons and the 24th occasion since 1907/08.          
+  </p>
+  <p>
+     This was the second Premier league season involving the Video Assistant Referee (VAR) system. Although it may not have felt like it, Chelsea fared far better on VAR overturns in 2020/21 than during the previous campaign.
+
+     Of the 13 Stockley Park interventions this season where a review led to a change of decision, the net result was plus three goals for the Blues, compared to minus two last season.          
+  </p>
+  <p>
+     Chelsea Women were in near-unstoppable form again this season, dominating the WSL for back-to-back titles and winning 18 of their 22 matches.
+
+     The attacking duo of Sam Kerr and Fran Kirby was especially delightful to watch, the Aussie winning the Golden Boot and the latter being crowned the Player of the Season. Manager of the Season Emma Hayes, who also steered her stellar crew to Conti Cup glory and a maiden Champions League final, may yet complete a famous treble when the postponed FA Cup quarter-finals resume in September.          
+  </p>
+
 
 
 
