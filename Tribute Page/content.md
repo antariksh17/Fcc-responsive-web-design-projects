@@ -66,7 +66,31 @@
 
 
 
-<h2><i>third tab/subheading </i><b>Season</b></h2>
+<h2><i>third tab/subheading </i><b><a href="https://www.chelseafc.com/en/news/2021/06/12/post-season-briefing-2020-21" target="_blank">Season</a></b></h2>
+<p>
+     The community of hope that grew across the country over the past 18 months found expression of a specific kind for the Chelsea family in Porto. Just as our lives were being released from lockdown, a 21-year-old German made history to the unbridled joy of Blues everywhere.             
+  </p>
+  <p>
+     Kai Havertz’s elegant goal was one of those moments that make us, clinching the club’s second European Cup and sixth UEFA trophy. In the elite club of five who have won every major UEFA trophy, the Blues are now the only one to have bagged two of each. Meanwhile, none of our London neighbours has one Champions League.          
+  </p>
+  <p>
+     The football world’s biggest club final had a TV and digital audience of almost nine million in the UK, and in the USA the viewing figure was 39 per cent bigger than the most recent all-English affair between Liverpool and Tottenham in 2019.    As well as revenue estimated at £100m, the win brings prize entry into the Super Cup against Villarreal in August, when a win would put Chelsea level on European trophies with Manchester United, and the FIFA Club World Cup, slated for Japan in December.               
+  </p>
+  <p>
+     It is also the first honour earned in a year ending in ‘1’ since the Cup Winners’ Cup half a century ago – when we beat Manchester City in the semi-finals twice by the same 1-0 scoreline.
+     The three former Academy players who played in Porto formed the largest such cohort for the Blues in a European final since that 1971 victory over this year’s vanquished semi-finalists, Real Madrid.          
+  </p>
+  <p>
+     For the first time in our 116-year history the Blues reached a major final for the fifth season in succession and, as in 2019, 2012, 2008, 2007 and 1998, there were two to contest. Sadly, our 10th FA Cup final of the century was destined to go the way of first-time winners Leicester.   Three days later a revenge win against the Foxes helped secure fourth place in the league for the second season running, and only the fourth time in the club’s top-flight history. In fact, Chelsea have finished in a higher position only 16 times previously.
+
+               
+  </p>
+
+  <p>
+     On 25 January, that did not look likely. The Blues had slipped down to ninth, and club legend Frank Lampard made way for former PSG man Thomas Tuchel.
+     The experienced Bavarian coach’s impact was immediate and enduring. Switching tactics to a back three that bolstered defence and wing-backs who supported the attack, and with less regular players brought back in, the team embarked on a remarkable run. Tuchel was undefeated in his first 14 games in all competitions – a record for any Chelsea boss. That is a wonderful habit, but something else was stirring too.          
+  </p>
+
 
 
 
