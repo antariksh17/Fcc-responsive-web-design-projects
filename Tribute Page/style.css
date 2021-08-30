@@ -6,12 +6,49 @@ Blue- #034694 ; RGB- (3, 70, 148); CMYK-(100, 83, 10, 1); */
 
 
 
-h1{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* h1{
     text-align:left;
     font-size: 200%;
+} */
+
+/* #logo{
+  float: right;
+} */
+header img {
+  float: right;
+  width: 100px;
+  height: 100px;
+  
 }
-#logo{
-  align-items: right;
+
+header h1 {
+  position: relative;
+  top: 10px;
+  left: 10px;
+  width: 400px;
+  font-size: 350%;
+  
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color:#034694
 }
 
 
@@ -21,12 +58,52 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content:space-around;
-    margin-top: 10 px;
-    margin-bottom: 10px;
-    margin-left: 40px;
-    margin-right: 30px;
-    font-family:'Montserrat', sans-serif;
+    
+    font-family: 'Montserrat', sans-serif;
+    background-color: #D1D3D4;
+    
 }
+h4{
+  color: #034694;
+  width: 400px;
+  
+}
+h2,section{
+  margin-right: 30px;
+  margin-left:30px;
+}
+
+p{
+  font-family: 'Monteserrat', sans-serif;
+  font-weight: 300;
+  text-align: justify;
+}
+image{
+  align-items: center;
+}
+
+nav{
+  width:100%;
+  padding-left:0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+
+}
+
+h5{
+  
+  /* margin-left: 25px; */
+  font-size: 125%;
+}
+
+/* h5{
+  font-weight: thin;
+
+} */
+
+
 #parent {
   text-align:center;
   /* background-color:blue; */
@@ -53,6 +130,7 @@ ul {
   
   li {
     float: left;
+    align-items: center;
   }
   
   li a {
@@ -64,5 +142,6 @@ ul {
   }
 footer{
     margin-top: auto;
+    font-size: 60%;
     
 }
