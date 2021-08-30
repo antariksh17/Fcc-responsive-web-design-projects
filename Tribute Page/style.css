@@ -32,9 +32,12 @@ Blue- #034694 ; RGB- (3, 70, 148); CMYK-(100, 83, 10, 1); */
 /* #logo{
   float: right;
 } */
+header{
+  width: 100%;
+}
 header img {
   float: right;
-  width: 100px;
+ 
   height: 100px;
   
 }
