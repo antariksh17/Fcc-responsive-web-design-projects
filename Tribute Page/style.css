@@ -34,9 +34,12 @@ Blue- #034694 ; RGB- (3, 70, 148); CMYK-(100, 83, 10, 1); */
 } */
 header{
   width: 100%;
+  
+  justify-content: center;
 }
 header img {
   float: right;
+  
  
   height: 100px;
   
@@ -48,19 +51,33 @@ header h1 {
   left: 10px;
   width: 400px;
   font-size: 350%;
+  justify-content: center;
   
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  color:#034694
+  color:#034694;
+}
+.img-div{
+  margin: auto;
+  align-content: center;
+}
+figcaption{
+  font-size: 75%;
+  align-items: center;
 }
 
+h2,h4, h5, img, figcaption{
+  display: flex;
+  justify-content: center;
+  margin-left: 25px;
+}
 
 body{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content:space-around;
+    justify-content:center;
     
     font-family: 'Montserrat', sans-serif;
     background-color: #D1D3D4;
@@ -68,10 +85,12 @@ body{
 }
 h4{
   color: #034694;
+  /* align-content: center;
   width: 400px;
+  margin-left: 25px; */
   
 }
-h2,section{
+section{
   margin-right: 30px;
   margin-left:30px;
 }
