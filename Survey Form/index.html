@@ -20,12 +20,37 @@
     <br>
     <main>
         <section>
-            <form id="survey-form">
-            <label for="name">
-                Please the following details as specified:
+            <h3>Please give the details as specfied by the following fields:</h3>
+            <form id="survey-form" style="margin: 25px;">
+            
+              <label for="name" >
+                  Name:
+              </label><br>
+
+              <input id="name" type="text" placeholder="John Doe" ><br>
+
+            
+            <label for="email" >
+                Email-id: 
             </label><br>
 
-            <input id="name" type="text" >
+            <input id="email" type="text" placeholder="john@example.com" ><br>
+
+            
+            <label for="number">
+                Phone number:
+            </label><br>
+
+            <input id="number" type="number" min="1" max="1000000000" placeholder="1234567890" ><br>
+            
+            
+            <label for="ext">
+                Extension(+):
+            </label><br>
+
+            <input id="ext" type="number" min="1" max="1000" placeholder="000">
+
+
 
             </form>
         </section>
