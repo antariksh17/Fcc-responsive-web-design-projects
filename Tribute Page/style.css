@@ -38,15 +38,14 @@ header{
   justify-content: center;
 }
 header img {
-  float: right;
-  
+  float: right; 
  
   height: 100px;
   
 }
 
 header h1 {
-  position: relative;
+  
   top: 10px;
   left: 10px;
   width: 400px;
@@ -57,9 +56,24 @@ header h1 {
   font-weight: 700;
   color:#034694;
 }
-.img-div{
-  margin: auto;
+#img-div{
+  margin: 25px;
   align-content: center;
+  width: 400px;
+  
+  
+  
+}
+#image{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin:auto;
+  margin-left: auto;
+  margin-right: auto;
+   
+  
+  
 }
 figcaption{
   font-size: 75%;
@@ -100,9 +114,7 @@ p{
   font-weight: 300;
   text-align: justify;
 }
-image{
-  align-items: center;
-}
+
 
 nav{
   width:100%;
