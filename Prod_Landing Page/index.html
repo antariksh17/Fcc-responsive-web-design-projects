@@ -1,84 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <link rel="stylesheet" href="style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap" rel="stylesheet">
-    
-    
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap"
+      rel="stylesheet"
+    />
+
     <title>Apple Macbook Air</title>
-
-
-</head>
-<body>
-    
+  </head>
+  <body>
     <main>
-        
-        <section id="top">
-            
-            <header id="header">
-                
-                <h1 >Macbook Air</h1>
-                <img id="header-img" src="Apple_logo_grey.svg">
+      <section id="top">
+        <header id="header">
+          <h1><a id="home">Macbook Air</a></h1>
+          <img id="header-img" src="Apple_logo_grey.svg" />
 
-            </header>
-            <nav id="nav-bar">
-                
-                <ul>
+          <nav id="nav-bar">
+            <ul>
+              <li>
+                <btn class="nav-link"
+                  ><a href="" target="_blank"><b>Home</b></a></btn>
+              </li>
 
-                  
-                
-                  <li>
-                      <btn class="nav-link"><a  href="#" target="_blank"><b>Home</b></a></btn>
-                  </li>
+              <li>
+                <btn class="nav-link"
+                  ><a href="#specs" target="_blank"><b>Specifications</b></a></btn>
+              </li>
 
+              <li>
+                <btn class="nav-link"
+                  ><a href="#gallery" target="_blank"><b>Gallery</b></a></btn>
+              </li>
 
-                 <li>
-                      <btn class="nav-link"><a  href="#" target="_blank"><b>Specifications</b></a></btn>
-                 </li>
+            </ul>
 
+          </nav>
 
-                  <li>
-                      <btn class="nav-link"><a  href="#" target="_blank"><b>Gallery</b></a></btn>
-                  </li>
-                      
-                </ul>
-        </nav>
+        </header>
 
-        </section>
-        <section id="vid-space">
+      </section>
 
+      <section id="vid-space">
 
-            <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/5AwdkGKmZ0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe
+          id="video"
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/5AwdkGKmZ0I"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
 
+      </section>
 
-        </section>
+      <section>
+        <h3>Subscribe to the Newsletter!</h3>
+        <hr />
 
-        <section>
-            
-            <h3>Subscribe to the Newsletter!</h3>
-            <hr>
+        <form id="form" action="https://www.freecodecamp.com/email-submit">
+          <label for="email" name="email">Email-Id:</label>
 
-            <form id="form">
-                
-                <label for="email" name="label" placeholder="john.doe@example.com" required>Email-Id:</label>
+          <input
+            type="email"
+            id="email"
+            placeholder="john.doe@example.com"
+            required name="email"
+          ><br>
 
-                <input type="email" id="email"><br>
+          <input
+            type="submit"
+            id="submit"
+            value="Submit"
+            ><br>
+        </form>
+      </section>
 
+      <section id="Specification">
+          <h3><a name="specs">Specifications</a></h3>
+          <hr>
 
-                <input type="submit" id="submit" value="Submit" formaction="https://www.freecodecamp.com/email-submit">
+      </section>
 
-            </form>
-
-        </section>
-
-    
+      <section id="Gallery">
+          <h3></h3><a name="gallery">Macbook Air M1 Images:</a></h3>
+      </section>
     </main>
-    
-</body>
+  </body>
 </html>
