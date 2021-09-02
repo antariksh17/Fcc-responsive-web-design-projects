@@ -27,9 +27,9 @@
 <b>User Story #12:</b> Each element with the class of nav-link should contain text that corresponds to the header text within each section (e.g. if you have a "Hello world" section/header, your navbar should have an element which contains the text "Hello world").<br>
 
 <b>User Story #13:</b> When I click on a navbar element, the page should navigate to the corresponding section of the main-doc element (e.g. If I click on a nav-link element that contains the text "Hello world", the page navigates to a section element that has that id and contains the corresponding header.<br>
-
+<!-- Left -->
 <b>User Story #14:</b>On regular sized devices (laptops, desktops), the element with id="navbar" should be shown on the left side of the screen and should always be visible to the user.<br>
-
+<!-- left -->
 <b>User Story #15:</b>My Technical Documentation page should use at least one media query.<br>
 
 
