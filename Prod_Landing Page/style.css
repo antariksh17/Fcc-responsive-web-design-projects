@@ -4,12 +4,13 @@ header{
     display: flex;
 }
 
-#navbar {
+#nav-bar {
     overflow: hidden;
     background-color: #333;
     position: fixed; 
     top: 0; 
     width: 100%; 
+    align-content: center;
   }
 
 
@@ -51,4 +52,11 @@ ul {
   
   input:valid {
     border: 2px solid black;
+  }
+
+
+  @media screen and (max-width: 600px) {
+    body {
+      background-color: olive;
+    }
   }
