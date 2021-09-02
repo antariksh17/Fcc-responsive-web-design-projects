@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+
+input:invalid {
+    border: 3px solid red;
+  }
+  
+  input:invalid:required {
+    background-image:cross-fade(black,white);
+    
+  }
+  
+  input:valid {
+    border: 2px solid black;
+  }

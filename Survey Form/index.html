@@ -7,6 +7,12 @@
     <title>Survey Page</title>
 
     <link rel="stylesheet" href="styles.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap" rel="stylesheet">
+
+
 </head>
 <body>
     <header>
@@ -17,39 +23,139 @@
         This survey form  is meant to collect personal informations from users with their consent for official purposes.
 
     </p>
+    <hr>
     <br>
     <main>
         <section>
             <h3>Please give the details as specfied by the following fields:</h3>
             <form id="survey-form" style="margin: 25px;">
             
-              <label for="name" >
+              <label for="name"id="name-label"  name="name-label">
                   Name:
               </label><br>
 
-              <input id="name" type="text" placeholder="John Doe" ><br>
+              <input id="name"  type="text" placeholder="John Doe"  required><br>
 
             
-            <label for="email" >
-                Email-id: 
+            <label for="email" id="email-label" name="email-label" >
+                Email-Id: 
             </label><br>
 
-            <input id="email" type="text" placeholder="john@example.com" ><br>
+            <input  id="email" type="email" placeholder="john@example.com" required><br>
 
             
-            <label for="number">
+            <label for="number" id="number-label">
                 Phone number:
             </label><br>
 
-            <input id="number" type="number" min="1" max="1000000000" placeholder="1234567890" ><br>
+            <input id="number"   type="number" min="1" max="1000000000" placeholder="1234567890" name="number-label"><br>
             
             
-            <label for="ext">
-                Extension(+):
+            <label for="ext"name="ext-label">
+                Extension(+) :
             </label><br>
 
             <input id="ext" type="number" min="1" max="1000" placeholder="000">
 
+
+            <p>Choose Your Gender :</p>
+
+
+            <input type="radio" id="female" name="gen" value="female">
+
+            <label for="female">Female</label><br>
+
+
+            <input type="radio" id="male" name="gen" value="male">
+
+            <label for="male">Male</label><br>
+
+
+            <input type="radio" id="other" name="gen" value="other">   
+
+            <label for="other">Other</label><br>
+
+
+
+            <p>Specify what you identify as (if you marked "other") : </p>
+
+
+            <label for="gender">Gender :</label><br>
+
+            <input type="text" id="gender" placeholder="Example:non-binary"><br>
+
+            <p>Choose Your Choice of Leisure Sport :</p>
+
+
+            <input type="checkbox" id="fball" name="fball" value="fball">
+
+            <label for="fball">English Football(Soccer)</label><br>
+
+
+            <input type="checkbox" id="bball" name="bball" value="bball">
+
+            <label for="bball">Basketball</label><br>
+
+
+            <input type="checkbox" id="othersport" name="othersport" value="othersport">      
+
+            <label for="othersport">Other</label><br>
+
+
+            <p>Specify your interest (if you marked "other") : </p>
+            
+            
+            <label for="sport">Sport:</label><br>
+            
+
+            <input type="text" id="sport" placeholder="Example:non-binary"><br>
+            
+
+            <p>Pick your favorite Primary Colour(From the list) :</p>
+
+            <label for="colour" id="dropdown">
+
+            <select name="colour" id="dropdown">
+                <option value="">Pick a Fundamental colour</option>
+                <option value="Red">Red</option>
+                <option value="Green">Green</option>
+                <option value="Blue">Blue</option>
+                <option value="Yellow">Yellow</option>
+                <option value="Orange">Orange</option>
+                <option value="Violet">Violet</option>
+            </select><br><br>
+            <hr>
+            <p> Please mention your suggestions for future updates in this form template:</p>
+            <textarea type="text" id="textarea">Drop your suggestions here.</textarea>
+
+
+
+
+
+
+
+
+
+
+            <br><br>
+            <input type="submit" value="Submit" id="submit">
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+            
+  
 
 
             </form>
