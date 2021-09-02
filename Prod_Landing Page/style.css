@@ -1,0 +1,52 @@
+
+
+
+
+#navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+  }
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #034694;
+  }
+  
+  li {
+    float: left;
+    align-items: center;
+    
+  }
+  
+  li a {
+    display: block;
+    color: #DBA111;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+
+  .nav-link{
+      font-family: "Montserrat", sans-serif;
+  }
+
+
+  input:invalid {
+    border: 2px solid white;
+  }
+  
+  input:invalid:required {
+    background-image:cross-fade(black,white);
+    
+  }
+  
+  input:valid {
+    border: 2px solid black;
+  }
