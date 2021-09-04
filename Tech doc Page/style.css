@@ -13,7 +13,7 @@
 }
 
 body{
-  margin-left: 160px; /* Same as the width of the sidebar */
+  margin-left: 175px; /* Same as the width of the sidebar */
   margin-right: 15px;
   padding: 0px 10px;
   text-align: justify;
@@ -49,6 +49,16 @@ body{
     /* align-items: center; */
     /* text-align: center; */
     
+  }
+  h1{
+    background-color: #424857;
+    color: #61dafb;
+    margin: 0;
+  }
+
+  h1, h2, h5{
+    text-align: center;
+
   }
 
   h5{
